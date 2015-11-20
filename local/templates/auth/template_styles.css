@@ -1,7 +1,7 @@
 html {height: 100%;}
 
 body {
-	background: #8B658B;
+	background: #FFFFFF);
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -51,9 +51,9 @@ body {
 	width: 226px;
 }
 
-.main-logo-ru {background: url("images/imageMY.jpg") no-repeat 0 0;}
-.main-logo-en {background: url("images/logo-en1.png") no-repeat 0 0;}
-.main-logo-ua {background: url("images/logo-ua1.png") no-repeat 0 0;}
+.main-logo-ru {background: url("images/glavn.png") no-repeat 0 0;}
+.main-logo-en {background: url("images/glavn.png") no-repeat 0 0;}
+.main-logo-ua {background: url("images/glavn.png") no-repeat 0 0;}
 
 .b_line_gray{border: none;border-bottom: 1px solid #f2f2f2;}
 
